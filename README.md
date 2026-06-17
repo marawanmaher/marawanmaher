@@ -21,7 +21,3 @@ My day-to-day sits at the intersection of three things: scaling the systems that
 ### Elsewhere
 
 [LinkedIn](https://linkedin.com/in/marawanmaher) · [Kaggle](https://kaggle.com/marawanmaher) · [DEV](https://dev.to/marawan) · marawanmyoussef@gmail.com
-
----
-
-<sub>Most of my work lives inside Turing. What's public here is incidental — side projects, MSc coursework, and the occasional experiment.</sub>
